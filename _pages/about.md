@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm currently an assistant professor in Information Management & Business Intelligence of the School of Management, Fudan University. Before this, I served as an assistant professor of School of Management, Zhejiang University (2022-2024). <br><br> 
+I am currently an Assistant Professor in Information Management & Business Intelligence at the School of Management, Fudan University. Prior to this, I served as an Assistant Professor at the School of Management, Zhejiang University (2022-2024). <br><br> 
 My recent work has focused on pioneering technical innovations in the structured reasoning of large language models (LLMs), guided by managerial theories, to advance AI’s capabilities in intelligent perception, cognition, and reasoning of multimodal user behaviors. Over the past six years, my research has consistently centered on developing theory-driven, interpretable deep learning models tailored for industrial applications and business value creation, adhering to the computational design science paradigm within Information Systems.<br><br>
 Please see my [CV](CV-GangChen-Latest Version.pdf) for more details about me.<br><br>
 Currently, I am primarily collaborating with the following peers who are in the early stages of their academic careers:<br>
